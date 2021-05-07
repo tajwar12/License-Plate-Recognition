@@ -1,0 +1,10 @@
+---> Open Matlab
+---> Browse the Folder named "license Plate Recongition System"
+---> Run the Login.m file
+---> Click Change Folder when dialogue appears
+---> Login Form will appers on the screen.
+---> Give Username "Admin" and Password "2212" (case sensitive)
+---> Admin Panel will appears.
+---> Now you have all the options click on whatever you want 
+
+Thank you
